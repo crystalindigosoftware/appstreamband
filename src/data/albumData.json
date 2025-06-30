@@ -583,5 +583,310 @@
         "mediaurl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/34/e8/a4/34e8a405-c46a-5914-e0cf-b60b48177e9f/mzaf_7348044661107837363.plus.aac.p.m4a"
       }
     ]
-  }
+  },
+  {
+    "id": "cbark",
+    "year": 2025,
+    "name": "Cordoba Rockea (Avance)",
+    "songs": 3,
+    "minutes": 12,
+    "explicit": false,
+    "image": "https://s3.amazonaws.com/gather.fandalism.com/800x800%2D1248045%2D%2D736A3E79%2DCB1E%2D4A24%2DB59AEBB06C9262F0%2D%2D0%2D%2D8552239%2D%2Drecursos10.jpg",
+    "artist": {
+      "id": "ln2025",
+      "name": "Lain",
+      "image": "https://i.scdn.co/image/ab6761860000101685d551ee2bca0a855655f2b5",
+      "description": "LAIN es una banda de Post-Grunge formada en 2018 en Córdoba, Argentina, influenciada por los grandes nombres de la era del 2000 como Creed y Nickelback. Instagram : @lainrockofficial",
+      "monthlyListeners": "640"
+    },
+    "tracks": [
+       {
+        "id": "eterv",
+        "no": 1,
+        "name": "Eternos - Live At Cordoba Rockea",
+        "duration": "4:22",
+        "playcount": "437",
+        "explicit": false,
+        "mediaurl": "/audio/cordobarockea/Lain%20-%20Eternos%20-%20Live%20at%20Cordoba%20Rockea.mp3"
+      },
+      {
+        "id": "destv",
+        "no": 2,
+        "name": "Destino - Live At Cordoba Rockea",
+        "duration": "3:52",
+        "playcount": "1.1K",
+        "explicit": false,
+        "mediaurl": "/audio/cordobarockea/Lain%20-%20Destino%20-%20Live%20at%20Cordoba%20Rockea.mp3"
+      },
+      {
+        "id": "desgv",
+        "no": 3,
+        "name": "Desgastado - Live At Cordoba Rockea",
+        "duration": "4:22",
+        "playcount": "989",
+        "explicit": false,
+        "mediaurl": "/audio/cordobarockea/Lain%20-%20Desgastado%20-%20Live%20at%20Cordoba%20Rockea.mp3"
+      }
+    ]
+  },
+  {
+  "id": "cata",
+  "year": 2024,
+  "name": "Catalizador",
+  "songs": 13,
+  "minutes": 51,
+  "explicit": false,
+  "image": "https://s3.amazonaws.com/gather.fandalism.com/800x800%2D1248045%2D%2D8CB41A85%2DECF2%2D4C39%2DB5B72B444457B23B%2D%2D0%2D%2D12264891%2D%2DPORTADACATALIZADOR.jpg",
+  "artist": {
+    "id": "ln2025",
+    "name": "Lain",
+    "image": "https://i.scdn.co/image/ab6761860000101685d551ee2bca0a855655f2b5",
+    "description": "LAIN es una banda de Post-Grunge formada en 2018 en Córdoba, Argentina, influenciada por los grandes nombres de la era del 2000 como Creed y Nickelback. Instagram : @lainrockofficial",
+    "monthlyListeners": "640"
+  },
+  "tracks": [
+    {
+      "id": "desg",
+      "no": 1,
+      "name": "Desgastado",
+      "duration": "4:43",
+      "playcount": "1.5K",
+      "explicit": false,
+      "mediaurl": "/audio/catalizador/LAIN%20-%20Catalizador%20-%2001%20Desgastado.mp3"
+    },
+    {
+      "id": "dest",
+      "no": 2,
+      "name": "Destino",
+      "duration": "3:50",
+      "playcount": "1.8K",
+      "explicit": false,
+      "mediaurl": "/audio/catalizador/LAIN%20-%20Catalizador%20-%2002%20Destino.mp3"
+    },
+    {
+      "id": "secr",
+      "no": 3,
+      "name": "Secretos de enero",
+      "duration": "0:56",
+      "playcount": "1.8K",
+      "explicit": false,
+      "mediaurl": "/audio/catalizador/LAIN%20-%20Catalizador%20-%2003%20Secretos%20de%20enero.mp3"
+    },
+    {
+      "id": "resi",
+      "no": 4,
+      "name": "Resistir",
+      "duration": "3:59",
+      "playcount": "2.4K",
+      "explicit": false,
+      "mediaurl": "/audio/catalizador/LAIN%20-%20Catalizador%20-%2004%20Resistir.mp3"
+    },
+    {
+      "id": "cheq",
+      "no": 5,
+      "name": "Cheques",
+      "duration": "3:32",
+      "playcount": "2.4K",
+      "explicit": true,
+      "mediaurl": "/audio/catalizador/LAIN%20-%20Catalizador%20-%2005%20Cheques.mp3"
+    },
+    {
+      "id": "caro",
+      "no": 6,
+      "name": "Caroline",
+      "duration": "3:20",
+      "playcount": "940",
+      "explicit": false,
+      "mediaurl": "/audio/catalizador/LAIN%20-%20Catalizador%20-%2006%20Caroline.mp3"
+    },
+    {
+      "id": "noes",
+      "no": 7,
+      "name": "No estás solo",
+      "duration": "4:48",
+      "playcount": "3K",
+      "explicit": false,
+      "mediaurl": "/audio/catalizador/LAIN%20-%20Catalizador%20-%2007%20No%20est%C3%A1s%20solo.mp3"
+    },
+    {
+      "id": "obse",
+      "no": 8,
+      "name": "Obsesión",
+      "duration": "4:04",
+      "playcount": "1.3K",
+      "explicit": false,
+      "mediaurl": "/audio/catalizador/LAIN%20-%20Catalizador%20-%2008%20Obesi%C3%B3n.mp3"
+    },
+    {
+      "id": "imag",
+      "no": 9,
+      "name": "Imagen de almas",
+      "duration": "3:58",
+      "playcount": "857",
+      "explicit": false,
+      "mediaurl": "/audio/catalizador/LAIN%20-%20Catalizador%20-%2009%20Imagen%20de%20almas.mp3"
+    },
+    {
+      "id": "eldi",
+      "no": 10,
+      "name": "El día que las brujas fallaron",
+      "duration": "4:15",
+      "playcount": "910",
+      "explicit": false,
+      "mediaurl": "/audio/catalizador/LAIN%20-%20Catalizador%20-%2010%20El%20d%C3%ADa%20que%20las%20brujas%20fallaron.mp3"
+    },
+    {
+      "id": "crey",
+      "no": 11,
+      "name": "Creyentes Pecadores",
+      "duration": "4:51",
+      "playcount": "1.9K",
+      "explicit": false,
+      "mediaurl": "/audio/catalizador/LAIN%20-%20Catalizador%20-%2011%20Creyentes%20Pecadores.mp3"
+    },
+    {
+      "id": "part",
+      "no": 12,
+      "name": "Partes de un mismo ser",
+      "duration": "3:38",
+      "playcount": "759",
+      "explicit": false,
+      "mediaurl": "/audio/catalizador/LAIN%20-%20Catalizador%20-%2012%20Partes%20de%20un%20mismo%20ser.mp3"
+    },
+    {
+      "id": "obde",
+      "no": 13,
+      "name": "Obsesión (Demo) - Bonus Track",
+      "duration": "4:04",
+      "playcount": "751",
+      "explicit": false,
+      "mediaurl": "/audio/catalizador/LAIN%20-%20Catalizador%20-%2013%20Obesi%C3%B3n%20(Demo)%20-%20Bonus%20Track.mp3"
+    }
+  ]
+},{
+  "id": "meta",
+  "year": 2023,
+  "name": "META",
+  "songs": 4,
+  "minutes": 17,
+  "explicit": false,
+  "image": "https://s3.amazonaws.com/gather.fandalism.com/800x800%2D1248045%2D%2DD18670C7%2D572B%2D4673%2DABB712A7E6A125F8%2D%2D0%2D%2D1699045%2D%2DLainMetaEP.jpg",
+  "artist": {
+    "id": "ln2025",
+    "name": "Lain",
+    "image": "https://i.scdn.co/image/ab6761860000101685d551ee2bca0a855655f2b5",
+    "description": "LAIN es una banda de Post-Grunge formada en 2018 en Córdoba, Argentina, influenciada por los grandes nombres de la era del 2000 como Creed y Nickelback. Instagram : @lainrockofficial",
+    "monthlyListeners": "640"
+  },
+  "tracks": [
+    {
+      "id": "reinventando",
+      "no": 1,
+      "name": "Reinventando (Remastered)",
+      "duration": "4:29",
+      "playcount": "3.6K",
+      "explicit": false,
+      "mediaurl": "/audio/meta/LAIN%20-%2001%20Reinventando%20(Remastered).mp3"
+    },
+    {
+      "id": "eternos",
+      "no": 2,
+      "name": "Eternos (Remastered)",
+      "duration": "4:15",
+      "playcount": "3.1K",
+      "explicit": false,
+      "mediaurl": "/audio/meta/LAIN%20-%2002%20Eternos%20(Remastered).mp3"
+    },
+    {
+      "id": "libres",
+      "no": 3,
+      "name": "Libres (Remastered)",
+      "duration": "4:47",
+      "playcount": "4.6K",
+      "explicit": false,
+      "mediaurl": "/audio/meta/LAIN%20-%2003%20Libres%20(Remastered).mp3"
+    },
+    {
+      "id": "libresa",
+      "no": 4,
+      "name": "Libres ft. Martina Malbrán (Bonus track)",
+      "duration": "4:45",
+      "playcount": "2.7K",
+      "explicit": false,
+      "mediaurl": "/audio/meta/LAIN%20-%2004%20Libres%20ft.%20Martina%20Malbr%C3%A1n%20(Bonus%20track).mp3"
+    }
+  ]
+},{
+  "id": "impulso",
+  "year": 2025,
+  "name": "Impulso : Radio Singles",
+  "songs": 6,
+  "minutes": 24.25,
+  "explicit": false,
+  "image": "https://i.ibb.co/DPwgKMj3/a0824578675-10.jpg",
+  "artist": {
+    "id": "ln2025",
+    "name": "Lain",
+    "image": "https://i.scdn.co/image/ab6761860000101685d551ee2bca0a855655f2b5",
+    "description": "LAIN es una banda de Post-Grunge formada en 2018 en Córdoba, Argentina, influenciada por los grandes nombres de la era del 2000 como Creed y Nickelback. Instagram : @lainrockofficial",
+    "monthlyListeners": "640"
+  },
+  "tracks": [
+    {
+      "id": "desgastador",
+      "no": 1,
+      "name": "Desgastado (Radio Edit)",
+      "duration": "4:13",
+      "playcount": "2.5K",
+      "explicit": false,
+      "mediaurl": "/audio/impulso/Lain%20-%20Radio%20Singles%20-%2001%20Desgastado%20(Radio%20Edit).mp3"
+    },
+    {
+      "id": "noestasr",
+      "no": 2,
+      "name": "No estás solo (Radio Edit)",
+      "duration": "4:28",
+      "playcount": "3K",
+      "explicit": false,
+      "mediaurl": "/audio/impulso/Lain%20-%20Radio%20Singles%20-%2002%20No%20est%C3%A1s%20solo%20(Radio%20Edit).mp3"
+    },
+    {
+      "id": "resistirr",
+      "no": 3,
+      "name": "Resistir (Radio Edit)",
+      "duration": "3:59",
+      "playcount": "1.7K",
+      "explicit": false,
+      "mediaurl": "/audio/impulso/Lain%20-%20Radio%20Singles%20-%2003%20Resistir%20(Radio%20Edit).mp3"
+    },
+    {
+      "id": "chequesr",
+      "no": 4,
+      "name": "Cheques (Radio Edit)",
+      "duration": "3:15",
+      "playcount": "1.2K",
+      "explicit": false,
+      "mediaurl": "/audio/impulso/Lain%20-%20Radio%20Singles%20-%2004%20Cheques%20(Radio%20Edit).mp3"
+    },
+    {
+      "id": "reinventandor",
+      "no": 5,
+      "name": "Reinventando (Radio Edit)",
+      "duration": "4:07",
+      "playcount": "4.7K",
+      "explicit": false,
+      "mediaurl": "/audio/impulso/Lain%20-%20Radio%20Singles%20-%2005%20Reinventando%20(Radio%20Edit).mp3"
+    },
+    {
+      "id": "libresar",
+      "no": 6,
+      "name": "Libres ft Martina Malbrán (Radio Edit)",
+      "duration": "4:23",
+      "playcount": "2.9K",
+      "explicit": false,
+      "mediaurl": "/audio/impulso/Lain%20-%20Radio%20Singles%20-%2006%20Libres%20ft%20Martina%20Malbr%C3%A1n%20(Radio%20Edit).mp3"
+    }
+  ]
+}
+
 ]

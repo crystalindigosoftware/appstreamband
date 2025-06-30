@@ -4,7 +4,7 @@ import { useParams } from 'react-router-dom';
 
 // components
 import Cover from '../components/Cover/Cover';
-import Search from '../components/Search/Search';
+//import Search from '../components/Search/Search';
 import Information from '../components/Information/Information';
 
 // types
@@ -32,7 +32,7 @@ const AlbumPage: React.FC = () => {
 
   return (
     <Cover image={currentAlbumData.image}>
-      <Search />
+      
       <Information album={currentAlbumData} />
     </Cover>
   );

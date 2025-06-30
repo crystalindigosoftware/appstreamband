@@ -36,16 +36,7 @@ const Header: React.FC<IProps> = ({ artist }) => {
               {artist.monthlyListeners} monthly listeners
             </span>
             <div className='flex flex-1 flex-gap-medium flex-h-end flex-v-center'>
-              <button type='button' className='button black active-opacity'>
-                Radio
-              </button>
-              <button
-                type='button'
-                className='button black active-opacity'
-                onClick={() => handleFollow()}
-              >
-                {follow ? 'Following' : 'Follow'}
-              </button>
+              
             </div>
           </div>
         </div>
