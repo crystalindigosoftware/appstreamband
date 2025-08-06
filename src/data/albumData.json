@@ -588,8 +588,8 @@
     "id": "cbark",
     "year": 2025,
     "name": "Cordoba Rockea",
-    "songs": 3,
-    "minutes": 12,
+    "songs": 4,
+    "minutes": 17.41,
     "explicit": false,
     "image": "https://s3.amazonaws.com/gather.fandalism.com/800x800%2D1248045%2D%2D736A3E79%2DCB1E%2D4A24%2DB59AEBB06C9262F0%2D%2D0%2D%2D8552239%2D%2Drecursos10.jpg",
     "artist": {
@@ -626,6 +626,15 @@
         "playcount": "989",
         "explicit": false,
         "mediaurl": "/audio/cordobarockea/Lain%20-%20Desgastado%20-%20Live%20at%20Cordoba%20Rockea.mp3"
+      },
+      {
+        "id": "nestsolv1",
+        "no": 4,
+        "name": "No estás solo - Live At Cordoba Rockea",
+        "duration": "5:05",
+        "playcount": "69",
+        "explicit": false,
+        "mediaurl": "/audio/cordobarockea/Lain%20-%20No%20estas%20solo%20-%20Live%20at%20Cordoba%20Rockea.mp3"
       }
     ]
   },
